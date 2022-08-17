@@ -1,9 +1,15 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - AddCam
+    LeanCommon.dll:
+    - Lean.Common.LeanSelectable
     LeanTouch.dll:
     - Lean.Touch.LeanDragTranslate
+    - Lean.Touch.LeanFingerDown
     - Lean.Touch.LeanPinchScale
-    - Lean.Touch.LeanSelectableByFinger
+    - Lean.Touch.LeanSelectByFinger
+    - Lean.Touch.LeanTouch
     - Lean.Touch.LeanTwistRotate
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputSettings
@@ -60,21 +66,32 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.MagicLeap.MagicLeapSettings
   serializedClasses:
     LeanCommon:
+    - Lean.Common.LeanSelect/LeanSelectableEvent
     - Lean.Common.LeanSelectable/LeanSelectEvent
     LeanTouch:
+    - Lean.Common.LeanScreenQuery
+    - Lean.Touch.LeanFingerDown/LeanFingerEvent
+    - Lean.Touch.LeanFingerDown/Vector2Event
+    - Lean.Touch.LeanFingerDown/Vector3Event
     - Lean.Touch.LeanFingerFilter
-    - Lean.Touch.LeanSelectableByFinger/LeanFingerEvent
-    - Lean.Touch.LeanSelectableByFinger/LeanSelectFingerEvent
+    - Lean.Touch.LeanScreenDepth
+    - Lean.Touch.LeanSelectByFinger/LeanSelectableLeanFingerEvent
     Unity.XR.ARSubsystems:
     - UnityEngine.XR.ARSubsystems.SerializableDictionary`2/KeyValuePair[System.String,System.Byte[]]
     - UnityEngine.XR.ARSubsystems.SerializableDictionary`2[System.String,System.Byte[]]
     - UnityEngine.XR.ARSubsystems.SerializableGuid
     - UnityEngine.XR.ARSubsystems.XRReferenceImage
     UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
     - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    - UnityEngine.Events.UnityEvent
     UnityEngine.XR.MagicLeap:
     - UnityEngine.XR.MagicLeap.MagicLeapSettings/GLCache
-  methodsToPreserve: []
+  methodsToPreserve:
+  - assembly: LeanTouch
+    fullTypeName: Lean.Touch.LeanSelectByFinger
+    methodName: SelectScreenPosition
   sceneClasses:
     Assets/Scenes/BlankAR.unity:
     - Class: 1
@@ -108,8 +125,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2162}
     - Class: 114
-      Script: {instanceID: 2584}
-    - Class: 114
       Script: {instanceID: 4018}
     - Class: 114
       Script: {instanceID: 4636}
@@ -122,11 +137,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6030}
     - Class: 114
+      Script: {instanceID: 7010}
+    - Class: 114
+      Script: {instanceID: 7308}
+    - Class: 114
       Script: {instanceID: 7484}
+    - Class: 114
+      Script: {instanceID: 7638}
     - Class: 114
       Script: {instanceID: 8790}
     - Class: 114
       Script: {instanceID: 9624}
+    - Class: 114
+      Script: {instanceID: 10074}
+    - Class: 114
+      Script: {instanceID: 26520}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1718,7 +1743,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: bf3128ad9fbabb08db8a09d0c5e5f7b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AddCam
   platform: 13
   scenePathNames:
   - Assets/Scenes/BlankAR.unity
-  playerPath: C:/Users/PC/OneDrive/Escritorio/UAQ/ARIngenia/ARUAQ/test1.apk
+  playerPath: C:/Users/PC/OneDrive/Escritorio/UAQ/ARIngenia/ARUAQ/test2.apk
