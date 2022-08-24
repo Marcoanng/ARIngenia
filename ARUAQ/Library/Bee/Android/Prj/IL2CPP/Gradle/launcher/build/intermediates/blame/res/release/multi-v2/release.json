@@ -111,28 +111,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-de-rAT_values-de-rAT.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-de-rAT\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "194,244,293,427,564",
-                        "endColumns": "49,48,133,136,90",
-                        "endOffsets": "243,292,426,563,654"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,109,162,300,441",
-                        "endColumns": "53,52,137,140,94",
-                        "endOffsets": "104,157,295,436,531"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-vi_values-vi.arsc.flat",
             "map": [
                 {
@@ -150,6 +128,28 @@
                         "startOffsets": "55,103,158,295,437",
                         "endColumns": "47,54,136,141,104",
                         "endOffsets": "98,153,290,432,537"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-de-rAT_values-de-rAT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-de-rAT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,244,293,427,564",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "243,292,426,563,654"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
                     }
                 }
             ]
@@ -265,28 +265,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-tr_values-tr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-tr\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,236,284,425,568",
-                        "endColumns": "45,47,140,142,86",
-                        "endOffsets": "235,283,424,567,654"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,105,157,302,449",
-                        "endColumns": "49,51,144,146,90",
-                        "endOffsets": "100,152,297,444,535"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-b+es+419_values-b+es+419.arsc.flat",
             "map": [
                 {
@@ -304,6 +282,28 @@
                         "startOffsets": "55,108,164,292,428",
                         "endColumns": "52,55,127,135,92",
                         "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-tr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,284,425,568",
+                        "endColumns": "45,47,140,142,86",
+                        "endOffsets": "235,283,424,567,654"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,157,302,449",
+                        "endColumns": "49,51,144,146,90",
+                        "endOffsets": "100,152,297,444,535"
                     }
                 }
             ]
@@ -353,28 +353,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-es-rUS_values-es-rUS.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-es-rUS\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "194,243,295,419,551",
-                        "endColumns": "48,51,123,131,88",
-                        "endOffsets": "242,294,418,550,639"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,108,164,292,428",
-                        "endColumns": "52,55,127,135,92",
-                        "endOffsets": "103,159,287,423,516"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-te_values-te.arsc.flat",
             "map": [
                 {
@@ -392,6 +370,28 @@
                         "startOffsets": "55,110,167,278,396",
                         "endColumns": "54,56,110,117,95",
                         "endOffsets": "105,162,273,391,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-es-rUS\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
                     }
                 }
             ]
@@ -419,28 +419,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-be_values-be.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-be\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,240,288,408,531",
-                        "endColumns": "49,47,119,122,85",
-                        "endOffsets": "239,287,407,530,616"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,109,161,285,412",
-                        "endColumns": "53,51,123,126,89",
-                        "endOffsets": "104,156,280,407,497"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-bn_values-bn.arsc.flat",
             "map": [
                 {
@@ -458,6 +436,28 @@
                         "startOffsets": "55,110,166,306,443",
                         "endColumns": "54,55,139,136,93",
                         "endOffsets": "105,161,301,438,532"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-be\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,288,408,531",
+                        "endColumns": "49,47,119,122,85",
+                        "endOffsets": "239,287,407,530,616"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,285,412",
+                        "endColumns": "53,51,123,126,89",
+                        "endOffsets": "104,156,280,407,497"
                     }
                 }
             ]
@@ -485,28 +485,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-it_values-it.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-it\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,238,289,419,553",
-                        "endColumns": "47,50,129,133,89",
-                        "endOffsets": "237,288,418,552,642"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,107,162,296,434",
-                        "endColumns": "51,54,133,137,93",
-                        "endOffsets": "102,157,291,429,523"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-ar-rSA_values-ar-rSA.arsc.flat",
             "map": [
                 {
@@ -524,6 +502,28 @@
                         "startOffsets": "55,105,158,277,399",
                         "endColumns": "49,52,118,121,92",
                         "endOffsets": "100,153,272,394,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-it\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,289,419,553",
+                        "endColumns": "47,50,129,133,89",
+                        "endOffsets": "237,288,418,552,642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,162,296,434",
+                        "endColumns": "51,54,133,137,93",
+                        "endOffsets": "102,157,291,429,523"
                     }
                 }
             ]
@@ -551,23 +551,23 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-cs_values-cs.arsc.flat",
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-cs\\values.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-pl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,237,290,402,516",
-                        "endColumns": "46,52,111,113,83",
-                        "endOffsets": "236,289,401,515,599"
+                        "startOffsets": "190,237,285,394,505",
+                        "endColumns": "46,47,108,110,80",
+                        "endOffsets": "236,284,393,504,585"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,106,163,279,397",
-                        "endColumns": "50,56,115,117,87",
-                        "endOffsets": "101,158,274,392,480"
+                        "startOffsets": "55,106,158,271,386",
+                        "endColumns": "50,51,112,114,84",
+                        "endOffsets": "101,153,266,381,466"
                     }
                 }
             ]
@@ -595,23 +595,23 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-pl_values-pl.arsc.flat",
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-pl\\values.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-cs\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,237,285,394,505",
-                        "endColumns": "46,47,108,110,80",
-                        "endOffsets": "236,284,393,504,585"
+                        "startOffsets": "190,237,290,402,516",
+                        "endColumns": "46,52,111,113,83",
+                        "endOffsets": "236,289,401,515,599"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,106,158,271,386",
-                        "endColumns": "50,51,112,114,84",
-                        "endOffsets": "101,153,266,381,466"
+                        "startOffsets": "55,106,163,279,397",
+                        "endColumns": "50,56,115,117,87",
+                        "endOffsets": "101,158,274,392,480"
                     }
                 }
             ]
@@ -661,28 +661,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-bs_values-bs.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-bs\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,237,287,406,527",
-                        "endColumns": "46,49,118,120,82",
-                        "endOffsets": "236,286,405,526,609"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,106,160,283,408",
-                        "endColumns": "50,53,122,124,86",
-                        "endOffsets": "101,155,278,403,490"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
@@ -700,6 +678,28 @@
                         "startOffsets": "55,106,161,283,414",
                         "endColumns": "50,54,121,130,90",
                         "endOffsets": "101,156,278,409,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PC\\OneDrive\\Escritorio\\UAQ\\ARIngenia\\ARUAQ\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,406,527",
+                        "endColumns": "46,49,118,120,82",
+                        "endOffsets": "236,286,405,526,609"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,283,408",
+                        "endColumns": "50,53,122,124,86",
+                        "endOffsets": "101,155,278,403,490"
                     }
                 }
             ]
